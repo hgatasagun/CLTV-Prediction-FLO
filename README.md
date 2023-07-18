@@ -1,6 +1,6 @@
 # CLTV_Prediction_FLO
 
-![Fotoğraf Açıklaması]([https://github.com/hgatasagun/CLTV_Prediction_FLO/blob/main/Customer.jpg])
+![Fotoğraf Açıklaması](https://github.com/hgatasagun/CLTV_Prediction_FLO/raw/main/Customer.jpg)
 
 
 This project aims to predict the potential value that customers will bring to FLO, a company engaged in sales and marketing activities. By estimating Customer Lifetime Value (CLTV), FLO can make informed decisions and develop a roadmap for its sales and marketing strategies.
