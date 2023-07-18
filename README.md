@@ -1,4 +1,4 @@
-# CLTV_Prediction_FLO
+# CLTV Analysis for FLO: Predicting Customer Lifetime Value for Strategic Decision-Making
 
 ![Fotoğraf Açıklaması](https://effic.be/wp-content/uploads/2016/01/CustomerValue.jpg)
 
