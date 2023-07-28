@@ -51,7 +51,7 @@ df.head()
 # Data understanding
 ##############################################
 def check_df(dataframe, head=5):
-    print('################# Shape ################# ')
+    print('################# Columns ################# ')
     print(dataframe.columns)
     print('################# Types  ################# ')
     print(dataframe.dtypes)
